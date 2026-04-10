@@ -27,22 +27,9 @@ const AboutSection = () => {
         >
           <div className="space-y-6 font-body text-foreground/75 leading-relaxed text-base md:text-lg">
             <p>
-              I'm <span className="text-primary font-semibold">Keshav</span> — a creator, a dreamer, and a voice for those 
-              who feel unheard. From the streets to the screen, my journey hasn't been easy, but every scar 
-              tells a story worth sharing.
-            </p>
-            <p>
-              As a <span className="text-primary font-semibold">YouTuber</span>, I create content that hits different — raw, 
-              real, and unapologetic. Whether it's motivational talks, life advice, or just keeping it 100 with my 
-              audience, every video carries a piece of my soul.
-            </p>
-            <p>
-              As a <span className="text-primary font-semibold">Counselor</span>, I guide people through their darkest hours. 
-              Mental health isn't a joke — and I've made it my mission to break the stigma, one conversation at a time. 
-              I believe in healing through honesty and strength through vulnerability.
-            </p>
-            <p className="text-primary/90 italic font-display text-xl md:text-2xl text-center pt-4">
-              "I didn't come this far to only come this far."
+             “Main Keshav hoon — YouTuber by passion aur College Counselor by purpose.
+                   Screen par content banata hoon, aur real life me logon ko direction deta hoon.
+              Mere videos sirf entertainment nahi… ek perspective hote hain.”
             </p>
           </div>
         </motion.div>
