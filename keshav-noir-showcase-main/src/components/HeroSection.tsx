@@ -35,7 +35,7 @@ const HeroSection = () => {
             transition={{ delay: 0.3, duration: 0.6 }}
             className="text-sm md:text-base font-body tracking-[0.3em] uppercase text-muted-foreground mb-4"
           >
-            Welcome to my world
+            Welcome to my portfolio
           </motion.p>
 
           <motion.h1
@@ -62,7 +62,7 @@ const HeroSection = () => {
             transition={{ delay: 0.9, duration: 0.6 }}
             className="text-sm md:text-base font-body text-muted-foreground leading-relaxed mb-10 italic"
           >
-            "Born to stand out, built to inspire. Every story I tell leaves a mark."
+            <p>Main Keshav hoon — YouTuber by passion aur College Counselor by purpose...</p>
           </motion.p>
 
           {/* Social Buttons */}
